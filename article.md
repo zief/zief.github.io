@@ -6,7 +6,7 @@ layout: default
 
 # {{ post.title }}
 
-{{ post.excerpt }}
+{{post.excerpt}}
 
 [Read More]({{ post.url }})
 
