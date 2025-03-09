@@ -8,3 +8,5 @@ navigation:
     url: /
   - title: About
     url: /about
+  - title: Article
+    url: /article
