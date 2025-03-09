@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: "article"
+permalink: /article
 ---
 
 {% for post in site.posts %}
